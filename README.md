@@ -1,2 +1,2 @@
 # CloudBD-PA2542-Daniel
-CloudBD Project 
+CloudBD Project Cloud Computing Course
